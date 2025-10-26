@@ -1,0 +1,2 @@
+# yanik-simulasyon
+deneme2
